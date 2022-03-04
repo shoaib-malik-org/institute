@@ -1,0 +1,69 @@
+h4{
+    color: #0a273d;
+    font-weight: 400 !important;
+}
+img{
+    height: 200px;
+}
+.b-radius{
+    border-radius: 20px;
+}
+.btn-lblue{
+    background-color: #2ba8e2;
+    color: rgb(238, 238, 238);
+}
+.price{
+    font-weight: 700;
+    font-size: 18px;
+    color: #37423b;
+}
+.center{
+    margin: 0 auto;
+}
+.black{
+    color: #37423b;
+    font-family: sans-serif;
+}
+.margin-top{
+    margin-top: 100px;
+}
+.f-400{
+    font-weight: 400;
+}
+.medium{
+    height: 30vh;
+}
+.blue{
+    background-color: #CDDEFF;
+}
+.blue:hover{
+    background-color: #f09514;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+.mt-neg{
+    margin-top: -10px;
+}
+.underline{
+    transition: .2s;
+}
+.content{
+    width: 90%;
+}
+.underline:hover{
+    margin-top: -5px;
+    transition: .3s;
+}
+.course-item{
+    width: 90%;
+}
+.animation{
+    transition: .3s;
+}
+.img-animation{
+    transform: rotate(0.01turn)
+                scale(1.12,1.12);
+    transition: .3s;
+}

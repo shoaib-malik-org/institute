@@ -1,0 +1,49 @@
+.font-large{
+    font-size: calc(5rem + 4.5vw);
+}
+.right{
+    top: 20px;
+    right: 40px;
+    z-index: 1;
+    transform: translateY(-60px);
+    transition: .4s;
+}
+.bottom{
+    bottom: 20px;
+    left: 40%;
+    z-index: 1;
+    transform: translateY(60px);
+    transition: .4s;
+}
+.r-trans{
+    transform: translateY(0px);
+    transition: .6s;
+}
+.b-trans{
+    transform: translateY(0px);
+    transition: .6s;
+}
+.blur{
+    opacity: .8;
+}
+.heigth{
+    height: 200px;
+}
+.sans{
+    font-family: sans-serif !important;
+}
+.mt-md{
+    margin-top: 20vh;
+}
+.bg-img2{
+    background-image: url("../img/bg-102.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.circle-lg{
+    height: 110px;
+    width: 110px;
+    border-radius: 100%;
+}
